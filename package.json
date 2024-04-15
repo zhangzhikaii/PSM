@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/csv-parse": "^1.2.2",
+    "@types/node": "^20.12.7",
+    "csv-parse": "^5.5.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
